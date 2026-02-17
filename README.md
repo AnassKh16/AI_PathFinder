@@ -1,10 +1,10 @@
-# 🎯 AIPathFinder - Uninformed Search Algorithms Visualization
+# AIPathFinder - Uninformed Search Algorithms Visualization
 
 A comprehensive Python application that visualizes six fundamental uninformed search algorithms navigating through a grid environment. Watch algorithms like BFS, DFS, and UCS explore paths from Start (S) to Target (T) in real-time, handling static obstacles (walls).
 
 ---
 
-## ✨ Features
+## Features
 
 - **Six Search Algorithms**: Implementations of BFS, DFS, UCS, DLS, IDDFS, and Bidirectional Search
 - **Real-Time Visualization**: Step-by-step animation showing frontier nodes, explored nodes, and final path
@@ -13,7 +13,7 @@ A comprehensive Python application that visualizes six fundamental uninformed se
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - **Python 3.8+**
 - **Dependencies**:
@@ -42,7 +42,7 @@ A comprehensive Python application that visualizes six fundamental uninformed se
 
 ---
 
-## 🎮 Usage
+## Usage
 
 1. **Run the main program**:
    ```bash
@@ -85,7 +85,7 @@ AI-PathFinder/
 
 ---
 
-## 🔍 Algorithms Implemented
+## Algorithms Implemented
 
 ### 1. **Breadth-First Search (BFS)**
 - Explores level by level
@@ -158,25 +158,25 @@ grid = Grid(rows=8, cols=8)  # Change to desired dimensions
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="1280" height="612" alt="BiDirectional" src="https://github.com/user-attachments/assets/a0e9569e-27ca-4a54-a66e-68b68a80ed07" />
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Muhammad Anass Khan
 
 ---
 
-## 📝 License
+## License
 
 This project is part of an academic assignment. Use responsibly.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Matplotlib for visualization capabilities
 - NumPy for efficient grid operations
