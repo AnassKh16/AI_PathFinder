@@ -160,8 +160,6 @@ grid = Grid(rows=8, cols=8)  # Change to desired dimensions
 
 ## 📸 Screenshots
 
-<img width="1280" height="612" alt="IDDFS" src="https://github.com/user-attachments/assets/f4ff54cb-3015-48e2-ab95-e4af3924ef5b" />
-
 <img width="1280" height="612" alt="BiDirectional" src="https://github.com/user-attachments/assets/a0e9569e-27ca-4a54-a66e-68b68a80ed07" />
 
 ---
